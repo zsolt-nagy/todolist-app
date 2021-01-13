@@ -1,0 +1,13 @@
+/*Body*/
+
+body {
+    margin: 0;
+    font-family: cursive, Bold;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #f7e3dc;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
